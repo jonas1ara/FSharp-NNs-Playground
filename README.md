@@ -1,9 +1,9 @@
 # FSynapse: A minimalist lab for neural architectures in F#
 _For the three people interested in AI using F#_
 
-[x] **Perceptron**: The Perceptron is a single-layer neural network model that can perform binary classification. It consists of inputs, weights associated with those inputs, a weighted sum function, and an activation function. Although basic, it is the foundation on which more complex neural network models are built.
+[x] **[Perceptron](https://github.com/jonas1ara/FSynapse/blob/main/src/Simple-perceptron.fsx)**: The Perceptron is a single-layer neural network model that can perform binary classification. It consists of inputs, weights associated with those inputs, a weighted sum function, and an activation function. Although basic, it is the foundation on which more complex neural network models are built.
 
-[x] **Single Hidden Layer Neural Network (Feedforward Neural Network)**: This neural network consists of an input layer, a hidden layer and an output layer. You can learn to train this network for more complex problems that cannot be handled effectively by a perceptron.
+[x] **[Single Hidden Layer Neural Network (Feedforward Neural Network)](https://github.com/jonas1ara/FSynapse/blob/main/src/Feedforward.fsx)**: This neural network consists of an input layer, a hidden layer and an output layer. You can learn to train this network for more complex problems that cannot be handled effectively by a perceptron.
 
 [] **Convolutional Neural Network (CNN)**: Especially useful for image processing, a CNN uses convolutional layers to detect spatial patterns in the input data.
 
