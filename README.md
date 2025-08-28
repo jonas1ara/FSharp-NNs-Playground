@@ -5,7 +5,7 @@ _For the three people interested in AI using F#_
 
 - **[Single Hidden Layer Neural Network (Feedforward Neural Network)](https://github.com/jonas1ara/FSynapse/blob/main/src/Feedforward.fsx)**: This neural network consists of an input layer, a hidden layer and an output layer. You can learn to train this network for more complex problems that cannot be handled effectively by a perceptron.
 
-- **Convolutional Neural Network (CNN)**: Especially useful for image processing, a CNN uses convolutional layers to detect spatial patterns in the input data.
+- **[Convolutional Neural Network (CNN)](https://github.com/jonas1ara/FSynapse/blob/main/src/Cnn1.fsx)**: Especially useful for image processing, a CNN uses convolutional layers to detect spatial patterns in the input data.
 
 - **Recurrent Neural Network (RNN)**: This type of network is ideal for sequential or time series data. You can learn to predict or generate sequences of data.
 
